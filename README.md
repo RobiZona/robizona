@@ -14,8 +14,8 @@ I've collaborated with [vorp framework](https://github.com/VORPCORE), contributi
 - [`vorp-inventory`](https://github.com/VORPCORE/vorp_inventory-lua)
 - [`vorp-banking`](https://github.com/VORPCORE/vorp_banking)
 
-🎮 **My Servers:**
-- RedM: [Western Legends](https://discord.gg/westernlegends)
+🎮 **My Works:**
+- Script: [RZ Store](discord.gg/QuX5GYTarA)
 
 ## Connect with Me
 
