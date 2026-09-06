@@ -20,6 +20,7 @@ I've collaborated with [vorp framework](https://github.com/VORPCORE), contributi
 ## Connect with Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/robizona/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCekuRQnyltSxgzdUgTlBxug)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/robizona)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@RobiZonaStore)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/QuX5GYTarA)
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/robizona)
